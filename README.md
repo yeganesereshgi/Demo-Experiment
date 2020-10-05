@@ -24,10 +24,10 @@ where 'c1','c2','c3','c4','c5','c6','m1','m2','m3','m4','m5','m6' are the values
 
 The decision data is saved in .csv in the format of  "subject_id+'_decision_output'+localtime", and eye-tracking data is saved as "subject_id+eyetracking_output+localtime".
 
-#Licence
+# Licence
 GPLv3 (https://github.com/hsogo/psychopy_tobii_controller/blob/master/LICENCE)
 
-#Citation
+# Citation
 Please consider to cite PsychoPy to encourage open-source projects:
 
 (APA formatted)
