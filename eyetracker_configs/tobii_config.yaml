@@ -1,0 +1,6 @@
+monitor_devices:
+    - eyetracker.hw.tobii.EyeTracker:
+        enable: True
+        name: tracker
+
+  
