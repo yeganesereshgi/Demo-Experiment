@@ -23,3 +23,13 @@ The decision data is organized in the columns as follows:
 where 'c1','c2','c3','c4','c5','c6','m1','m2','m3','m4','m5','m6' are the values of the proposed choice in the table for the left and right side respectively.
 
 The decision data is saved in .csv in the format of  "subject_id+'_decision_output'+localtime", and eye-tracking data is saved as "subject_id+eyetracking_output+localtime".
+
+#Licence
+GPLv3 (https://github.com/hsogo/psychopy_tobii_controller/blob/master/LICENCE)
+
+#Citation
+Please consider to cite PsychoPy to encourage open-source projects:
+
+(APA formatted)
+
+Peirce, J. (2009). Generating stimuli for neuroscience using PsychoPy. Frontiers in Neuroinformatics, 2, 10. doi:10.3389/neuro.11.010.2008
